@@ -1,0 +1,26 @@
+
+body {
+    background-image: url("https://www.unionjalisco.mx/wp-content/uploads/2021/05/sistema-solar-exploracion-segundo-001_1.jpg");
+    font-weight: 600;
+    background-size: 1500px;
+    font-weight: 900;
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 20px;
+    padding-left: 250px;
+}
+h1{
+  padding-left: 180px;
+}
+.container{
+    padding-left: 210px;   
+    
+}
+button{
+    color: blue;
+    width: 70px;
+    height: 35px;
+    font-size: 15px;
+    font-weight: 600;
+    
+}
